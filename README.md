@@ -20,6 +20,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <ol> 
       <li>Typescript</li>
       <li>Express para gerenciamento das rotas</li>
-      <li>TypeORM para manipulação dos dados</li>
+      <li>Socket.io</li>
     </ol>
 <p/>

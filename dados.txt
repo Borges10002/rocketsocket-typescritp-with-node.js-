@@ -9,3 +9,8 @@ dependencia
 criar tsconfig.json 
   yarn tsc --init
 
+  biblioteca socket
+   https://socket.io/get-started/chat
+   yarn add socket.io
+   yarn add @types/socket.io -D
+
