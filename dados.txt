@@ -1,0 +1,11 @@
+criar package.json
+  yarn init -y    
+
+dependencia 
+  yarn add express
+  yarn add typescript @types/express -D
+  yarn add ts-node-dev -D
+
+criar tsconfig.json 
+  yarn tsc --init
+
