@@ -14,3 +14,7 @@ criar tsconfig.json
    yarn add socket.io
    yarn add @types/socket.io -D
 
+   biblioteca 
+     yarn add  mongoose
+     yarn add @types/mongoose -D
+
